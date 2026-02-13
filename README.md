@@ -2,11 +2,7 @@
 
 Perkenalkan nama saya **Galang D. Ramadhan**.<br>
 
-Saya seorang **Mahasiswa yg sedang mempelajari ilmu Data Scientist** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya sekarang sedang mengikuti coding camp dari DBS Foundation.<br>
-
-Saya yakin bahwa saya akan lulus dengan nilai yang memuaskan tentunya, dan juga berhasil masuk ke mahasiswa yang tergolong "best-graduate".<br>
+Saya seorang **mahasiswa yang sedang mendalami ilmu Data Science** melalui [Dicoding](https://www.dicoding.com/). Saat ini, saya juga mengikuti **Coding Camp dari DBS Foundation** sebagai bagian dari perjalanan belajar saya. Saya berkomitmen untuk menyelesaikan program ini dengan hasil terbaik, dan menargetkan untuk menjadi salah satu **best graduate** dengan nilai yang memuaskan. 🚀
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/galang-dava-ramadhan-2ba83033a) ku ya!
 
