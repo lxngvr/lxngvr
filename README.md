@@ -8,4 +8,4 @@ Saya sekarang sedang mengikuti coding camp dari DBS Foundation.<br>
 
 Saya yakin bahwa saya akan lulus dengan nilai yang memuaskan tentunya, dan juga berhasil masuk ke mahasiswa yang tergolong "best-graduate".<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/galang-dava-ramadhan/)ku ya!
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/galang-dava-ramadhan/) ku ya!
