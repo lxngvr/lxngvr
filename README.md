@@ -2,13 +2,7 @@
 <h1 align="center">Hey, I'm Davaa 👋</h1>
 
 <p align="center">
-  <b>Quietly ambitious. Deliberate by nature. Driven by quality.</b>
-</p>
-
-<p align="center">
-  <i>Curious by nature, intentional by choice.</i><br>
-  <i>Understanding before executing.</i><br>
-  <i>Thoughtful in process, precise in execution.</i>
+  <b><i>Quietly ambitious. Deliberate by nature. Driven by quality.</i></b>
 </p>
 
 <p align="center">
