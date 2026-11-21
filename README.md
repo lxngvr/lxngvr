@@ -83,9 +83,6 @@ Ambitious but grounded, always learning, refining, and striving to deliver work 
   <sub>Be intentional. Understand deeply. Deliver with purpose.</sub>
 </p>
 
-
-<h3 align="center">Pac-Man Contributions</h3>
-
 <p align="center">
   <picture>
     <source
