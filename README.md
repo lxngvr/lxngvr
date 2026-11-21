@@ -1,22 +1,90 @@
+
 <h1 align="center">Hey, I'm Davaa 👋</h1>
-<h3 align="center">A curious mind who loves turning ideas into something meaningful.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lxngvr&label=Profile%20views&color=0e75b6&style=flat" alt="lxngvr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lxngvr" alt="lxngvr" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/galangdavaramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galangdavaramadhan" height="30" width="40" /></a>
-<a href="https://instagram.com/lxng_vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lxng_vr" height="30" width="40" /></a>
+<p align="center">
+  <b>Quietly ambitious. Deliberate by nature. Driven by quality.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>Curious by nature, intentional by choice.</i><br>
+  <i>Understanding before executing.</i><br>
+  <i>Thoughtful in process, precise in execution.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lxngvr&show_icons=true&locale=en&layout=compact" alt="lxngvr" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lxngvr&label=Profile%20views&color=64748b&style=flat" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lxngvr&show_icons=true&locale=en" alt="lxngvr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lxngvr&" alt="lxngvr" /></p>
+### About Me
 
+I'm someone who values understanding things deeply before turning ideas into solutions. I believe good work comes from curiosity, intention, and attention to detail.
+
+Ambitious but grounded, always learning, refining, and striving to deliver work with purpose.
+
+### Tech Stack
+
+**Languages & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,python" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,tailwind,docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="48" alt="Chart.js" />
+</p>
+
+**Database & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" />
+</p>
+
+**Tools & Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,android" />
+</p>
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lxngvr&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxngvr&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxngvr&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+
+### Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/galangdavaramadhan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/lxng_vr">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Don't be careless. Be careful."</i>
+</p>
+
+<p align="center">
+  <sub>Be intentional. Understand deeply. Deliver with purpose.</sub>
+</p>
