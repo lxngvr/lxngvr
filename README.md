@@ -82,3 +82,24 @@ Ambitious but grounded, always learning, refining, and striving to deliver work 
 <p align="center">
   <sub>Be intentional. Understand deeply. Deliver with purpose.</sub>
 </p>
+
+
+<h3 align="center">Pac-Man Contributions</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lxngvr/lxngvr/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/lxngvr/lxngvr/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/lxngvr/lxngvr/output/pacman-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</p>
